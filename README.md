@@ -1,1 +1,1 @@
-# sorting_algorithms
+*This is a sorting algorithms project of Holberton school*
