@@ -21,7 +21,7 @@ void swap(int *a, int *b)
  */
 void selection_sort(int *array, size_t size)
 {
-	unsigned int i, j, id;
+	size_t i, j, id;
 
 	for (i = 0; i < size - 1; i++)
 	{
